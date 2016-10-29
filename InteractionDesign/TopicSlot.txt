@@ -1,0 +1,33 @@
+.net
+Linux
+ASP .net
+big data
+angular
+typescript
+web
+react
+react JS
+node
+node JS
+DDD
+domain-driven design
+Echo
+Alexa
+IOT
+reactive extensions
+datatables
+microservices
+cloud
+azure
+service fabric
+javascript
+ES6
+machine learning
+MVVM
+xamarin
+mobile
+IOS
+android
+c-sharp
+enterprise
+.net core

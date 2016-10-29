@@ -1,0 +1,51 @@
+ScheduleIntent When is the {order} {topic} talk
+ScheduleIntent When is the {order} {topic} presentation
+ScheduleIntent When is the {order} {topic} session
+ScheduleIntent When is the {order} presentation about {topic}
+ScheduleIntent When is the {order} session about {topic}
+ScheduleIntent When is the {order} talk about {topic}
+ScheduleIntent What {topic} sessions are there this year
+ScheduleIntent What time is {speaker} talk
+ScheduleIntent What time is {speaker} session
+ScheduleIntent What time is {speaker} presentation
+ScheduleIntent What is {speaker} presenting about
+ScheduleIntent What is {speaker} talking about
+ScheduleIntent What is {speaker} going to talk about
+ScheduleIntent What will {speaker} talk about
+ScheduleIntent What will {speaker} present about
+ScheduleIntent What will {speaker} presentation be about
+ScheduleIntent What will {speaker} be presenting about
+ScheduleIntent What will {speaker} be talking about
+ScheduleIntent What will {speaker} be presenting on
+ScheduleIntent What topics will {speaker} be presenting on
+ScheduleIntent What will {speaker} session be about
+ScheduleIntent What topics will {speaker} session be about
+ScheduleIntent When are {speaker} sessions
+ScheduleIntent When are {speaker} talks
+ScheduleIntent When are {speaker} presentations
+ScheduleIntent Who is speaking about {topic}
+ScheduleIntent Who is presenting about {topic}
+ScheduleIntent Who is talking about {topic}
+ScheduleIntent Who will be speaking about {topic}
+ScheduleIntent Who will be presenting about {topic}
+ScheduleIntent Who will be talking about {topic}
+ScheduleIntent Are there any presentations about {topic}
+ScheduleIntent If there are any presentations by {speaker}
+ScheduleIntent If there are any sessions about {topic} by {speaker}
+ScheduleIntent If there are any talks by {speaker} about {topic}
+ScheduleIntent If anyone is talking about {topic}
+ScheduleIntent If anyone is speaking about {topic}
+ScheduleIntent If anyone is presenting about {topic}
+ScheduleIntent If anyone is talking on {topic}
+ScheduleIntent If anyone is speaking on {topic}
+ScheduleIntent If anyone is presenting on {topic}
+ScheduleIntent Is anyone talking about {topic}
+ScheduleIntent Is anyone speaking about {topic}
+ScheduleIntent Is anyone presenting about {topic}
+ScheduleIntent Is anyone talking on {topic}
+ScheduleIntent Is anyone speaking on {topic}
+ScheduleIntent Is anyone presenting on {topic}	
+
+AMAZON.StopIntent that's all
+AMAZON.StopIntent nothing
+AMAZON.StopIntent nothing else

@@ -1,0 +1,47 @@
+ {
+  "intents": [
+
+    {
+
+      "intent": "ScheduleIntent",
+      "slots": [
+        {
+          "name": "time",
+          "type": "AMAZON.TIME"
+        },
+        
+		  {
+			  "name": "order",
+			  "type": "OrderSlot"
+		  },
+		  {
+			  "name": "speaker",
+			  "type": "SpeakerSlot"
+		  },
+		  {
+			  "name": "topic",
+			  "type": "TopicSlot"
+          }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
+}}}}}}}}}

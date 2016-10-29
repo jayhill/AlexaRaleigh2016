@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AlexaCodeCampSchedule", "AlexaCodeCampSchedule\AlexaCodeCampSchedule.njsproj", "{93A99353-34B5-47FA-87C9-63D274E18909}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CodeCampScheduleApi", "CodeCampScheduleApi\CodeCampScheduleApi.fsproj", "{EF9A33EF-C2F7-4106-A129-0776779A3B8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InteractionDesign", "InteractionDesign", "{9019D22E-0AD7-49A6-BCB7-DA7CC482B227}"
+	ProjectSection(SolutionItems) = preProject
+		InteractionDesign\intents.json = InteractionDesign\intents.json
+		InteractionDesign\OrderSlot.txt = InteractionDesign\OrderSlot.txt
+		SampleUtterances.txt = SampleUtterances.txt
+		InteractionDesign\SpeakerSlot.txt = InteractionDesign\SpeakerSlot.txt
+		InteractionDesign\TopicSlot.txt = InteractionDesign\TopicSlot.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A99353-34B5-47FA-87C9-63D274E18909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9A33EF-C2F7-4106-A129-0776779A3B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9A33EF-C2F7-4106-A129-0776779A3B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9A33EF-C2F7-4106-A129-0776779A3B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9A33EF-C2F7-4106-A129-0776779A3B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
